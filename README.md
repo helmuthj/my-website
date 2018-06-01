@@ -6,6 +6,4 @@ Updates made on master on GitHub before rebase.
 
 ## Repository Purpose
 
-cause trouble, ouch
-more trouble
-
+This file is just a readme file
